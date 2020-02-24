@@ -9,7 +9,7 @@ In this competition, teams must build and program an autonomous robot to follow 
 
 Video Playlist: https://www.youtube.com/playlist?list=PLTt2NcjDh03R7uwRPFeTJ_-Co9ihL0fQv
 
-![robocore_logo](robocore_logo.png)
+![field](maxresdefault.jpg)
 
 ## Repository Contents
 
@@ -34,6 +34,7 @@ The robot consists of:
 6. 1x 8-sensor QRE reflectance module board
 7. 2x Standalone QRE reflectance modules
 8. Small 12V LiPo battery (not seen in picture)
+9. ![robocore_logo](robocore_logo.png)
 
 ## Where to Find Me:
 
