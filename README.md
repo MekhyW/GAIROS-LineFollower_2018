@@ -9,6 +9,8 @@ In this competition, teams must build and program an autonomous robot to follow 
 
 Video Playlist: https://www.youtube.com/playlist?list=PLTt2NcjDh03R7uwRPFeTJ_-Co9ihL0fQv
 
+![robocore_logo](robocore_logo.png)
+
 ## Repository Contents
 
 | Folder                      | What´s Inside                                                | Key File             |
