@@ -27,14 +27,24 @@ Video Playlist: https://www.youtube.com/playlist?list=PLTt2NcjDh03R7uwRPFeTJ_-Co
 The robot consists of:
 
 1. 1x PLA 3D-printed chassis body
+
 2. 1x Arduino Nano microcontroller board
+
 3. 1x L298n dual motor driver module
+
 4. 4x Pololu micro metal 3000RPM DC motors (6V HP, 10:1 gear reduction)
+
 5. 4x StickyMAX S30 32mm silicone rubber wheels
+
 6. 1x 8-sensor QRE reflectance module board
+
 7. 2x Standalone QRE reflectance modules
-8. Small 12V LiPo battery (not seen in picture)
-9. ![robocore_logo](robocore_logo.png)
+
+8. 2x Digital buttons
+
+9. 1x Small 12V LiPo battery (not seen in picture)
+
+   ![robocore_logo](robocore_logo.png)
 
 ## Where to Find Me:
 
