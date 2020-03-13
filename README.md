@@ -51,5 +51,4 @@ The robot consists of:
 * [Telegram Contact 🔵](https://t.me/mekhyw)
 * [YouTube Channel 🔴](https://www.youtube.com/channel/UC3__YPhMGjytXUqRUmriQ8A?view_as=subscriber)
 * [Twitter Page 🐦](https://twitter.com/MekhyW)
-* [Instagram Page 📸](https://www.instagram.com/mekhy_w/)
 
