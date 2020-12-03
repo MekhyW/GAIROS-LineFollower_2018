@@ -46,9 +46,3 @@ The robot consists of:
 
    ![robocore_logo](robocore_logo.png)
 
-## Where to Find Me:
-
-* Email: felipe_catapano@yahoo.com.br
-* [Telegram Contact 🔵](https://t.me/mekhyw)
-* [Twitter Page 🐦](https://twitter.com/MekhyW)
-
